@@ -37,6 +37,7 @@ var Lakshadweep = ["Lakshadweep"];
 var Puducherry = ["Karaikal","Mahe","Puducherry","Yanam"];
 
 
+
 $("#inputState").change(function(){
   var StateSelected = $(this).val();
   var optionsList;

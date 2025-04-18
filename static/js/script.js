@@ -12,7 +12,7 @@ var AndraPradesh = [
   "Visakhapatnam",
   "Vizianagaram",
   "West Godavari",
-];
+]; 
 var ArunachalPradesh = [
   "Anjaw",
   "Changlang",

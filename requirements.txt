@@ -9,4 +9,4 @@ werkzeug==2.0.0
 requests
 tensorflow
 opencv-python
-torch
+torch 
