@@ -64,3 +64,4 @@ class Production:
         for c in self.crop:
             self.prod_arr.append(self.single_production_price(c))
             self.display(c)
+            

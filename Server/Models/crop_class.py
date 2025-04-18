@@ -8,6 +8,7 @@ from sklearn.preprocessing import StandardScaler
 #flags
 debug = False
 
+
 # kharif crops list
 k_crops = ["arhar/tur","bajra","cotton_lint","groundnut","maize-k","moong_green_gram)","ragi",
 "rice","sunflower","urad","cowpea_lobia","ginger"]
